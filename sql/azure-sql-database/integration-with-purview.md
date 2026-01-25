@@ -1,7 +1,5 @@
 # Integrating Azure SQL Database with Microsoft Purview
 
-Costa Rica
-
 [![Microsoft Purview](https://img.shields.io/badge/Microsoft-Purview-blue)](https://learn.microsoft.com/en-us/azure/purview/)
 [![Azure SQL Database](https://img.shields.io/badge/Azure-SQL-blue)](https://learn.microsoft.com/en-us/azure/sql-database/)
 

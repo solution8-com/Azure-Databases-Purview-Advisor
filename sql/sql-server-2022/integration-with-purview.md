@@ -1,7 +1,5 @@
 # Integrating SQL Server 2022 with Microsoft Purview
 
-Costa Rica
-
 [![Microsoft Purview](https://img.shields.io/badge/Microsoft-Purview-blue)](https://learn.microsoft.com/en-us/azure/purview/)
 [![SQL Server 2022](https://img.shields.io/badge/SQL%20Server%202022-blue)](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 

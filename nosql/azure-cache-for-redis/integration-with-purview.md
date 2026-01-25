@@ -1,7 +1,5 @@
 # Integrating Azure Cache for Redis with Microsoft Purview
 
-Costa Rica
-
 [![Microsoft Purview](https://img.shields.io/badge/Microsoft-Purview-blue)](https://learn.microsoft.com/en-us/azure/purview/) [![Azure Cache for Redis](https://img.shields.io/badge/Azure-Redis-blue)](https://learn.microsoft.com/en-us/azure/redis/)
 
 Last updated: 2025-07-17
