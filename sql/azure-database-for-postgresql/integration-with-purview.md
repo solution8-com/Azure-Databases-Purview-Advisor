@@ -1,7 +1,5 @@
 # Integrating Azure Database for PostgreSQL with Microsoft Purview
 
-Costa Rica
-
 [![Microsoft Purview](https://img.shields.io/badge/Microsoft-Purview-blue)](https://learn.microsoft.com/en-us/azure/purview/) [![Azure PostgreSQL](https://img.shields.io/badge/Azure-PostgreSQL-blue)](https://learn.microsoft.com/en-us/azure/postgresql/)
 
 Last updated: 2025-07-17
