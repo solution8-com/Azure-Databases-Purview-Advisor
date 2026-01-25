@@ -1,17 +1,8 @@
 # Azure Databases Advisor Tool - Unofficial
 
-Costa Rica
-
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[brown9804](https://github.com/brown9804)
-
 Last updated: 2025-07-17
 
-----------
-
-> [!IMPORTANT]
-> The information and code in this repository are provided for demonstration purposes only. For official guidance, support, or more detailed information, please refer to Microsoft's official documentation or contact Microsoft directly: [Microsoft Sales and Support](https://support.microsoft.com/contactus?ContactUsExperienceEntryPointAssetId=S.HP.SMC-HOME)
-
+---------
 <details>
 <summary><b>List of References</b> (Click to expand)</summary>
 
